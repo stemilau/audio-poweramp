@@ -1,0 +1,6 @@
+[submodule "pspice-model"]
+	path = pspice-model
+	url = git@github.com:stemilau/audio-poweramp-pspice.git
+[submodule "pcb"]
+	path = pcb
+	url = git@github.com:stemilau/audio-poweramp-pcb.git
