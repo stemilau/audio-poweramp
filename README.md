@@ -1,2 +1,2 @@
 # audio-poweramp
-Audio Power Amplifier PSPICE Simulations, Schematic &amp; PCB Design
+Audio Power Amplifier designed in OrCAD v17.2.0, PSPICE Simulations, Schematic &amp; PCB Design
